@@ -1,6 +1,18 @@
 #Spritle - student interaction project
 
-A teacher-student interaction platform (Django based web application).
+Django Based Web Apllication with basic CRUD functionalities and user authentication.
+Specifications ---
+Authentication
+ a) User login, logout 
+ b) User registration 
+ c) Standard password validation 
+Site Functionality
+ a) User profile details section for both student and teacher, also login/registration individuality.
+ b) Give tasks sections for teachers.
+ c) Answer tasks section for students.
+ d) Viewing result section and give marks for teachers.
+Bootstrap designing
+ a) Usage of Django Argon Dashboard Based Templates, validation forms, login, register pages and proifle section.
 
 Set up the project-----
 
